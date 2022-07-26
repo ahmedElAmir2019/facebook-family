@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457264541435",
+    "firebase_url": "https://hassebatmam-default-rtdb.firebaseio.com",
+    "project_id": "hassebatmam",
+    "storage_bucket": "hassebatmam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457264541435:android:aa529afdf8207c6def0a5e",
+        "android_client_info": {
+          "package_name": "com.example.mam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457264541435-nq55r4eomo8oh2mmqhj6kpoj1vm65udm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzLxaq7tV49j1loEd10ahB6E8r98A92LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457264541435-nq55r4eomo8oh2mmqhj6kpoj1vm65udm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
